@@ -23,3 +23,6 @@ spec:
           env:
             - name: PREFIX
               value: /httpbin
+            - name: TZ
+              value: Asia/Jakarta
+
